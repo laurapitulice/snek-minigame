@@ -20,5 +20,5 @@ A classic Snake game built as a personal project during my first year of univers
 3. **Configure the compiler ("g++.exe"):**
     - in `launch.json`: set `"externalConsole": true`
     - in `tasks.json`: make sure the compiler used is `"g++.exe"`
-4. **Run the program and play :)!**
+4. **Run the program and play :)**
    
