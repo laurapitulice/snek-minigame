@@ -1,4 +1,4 @@
-# 🐍Snake Minigame - C++ Console Implementation
+# 🐍"Snek Minigame" - C++ Console Implementation
 
 A classic Snake game built as a personal project during my first year of university. This project focuses on fundamental C++ concepts, memory management (arrays), and real-time console rendering.
 
@@ -15,4 +15,10 @@ A classic Snake game built as a personal project during my first year of univers
 - **Coordinate Systems:** Managing 2D space using X and Y variables.
 
 ## 🎮 How to Play
-1. **Download zip code**
+1. **Download zip code and unzip file to the desired path**
+2. **Open folder _snek_minigame_ in VSCode**
+3. **Configure the compiler ("g++.exe"):**
+    - in `launch.json`: set `"externalConsole": true`
+    - in `tasks.json`: make sure the compiler used is `"g++.exe"`
+4. **Run the program and play :)!**
+   
