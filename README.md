@@ -22,3 +22,4 @@ A classic Snake game built as a personal project during my first year of univers
     - in `tasks.json`: make sure the compiler used is `"g++.exe"`
 4. **Run the program and play :)**
    
+<img width="889" height="796" alt="Screenshot 2026-03-13 181914" src="https://github.com/user-attachments/assets/b5f6d147-42e4-4ff3-81ac-985fd3d960b5" />
