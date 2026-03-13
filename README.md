@@ -1,4 +1,4 @@
-# Snake Game - C++ Console Implementation
+# 🐍Snake Minigame - C++ Console Implementation
 
 A classic Snake game built as a personal project during my first year of university. This project focuses on fundamental C++ concepts, memory management (arrays), and real-time console rendering.
 
